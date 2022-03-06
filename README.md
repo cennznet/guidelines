@@ -1,2 +1,2 @@
-# guidlines
-CENNZnet Development Guidelines
+# CENNZnet Development Guidelines
+
